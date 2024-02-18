@@ -1,0 +1,32 @@
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\bin\Release\net8.0\TrackerLib.deps.json
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\bin\Release\net8.0\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\bin\Release\net8.0\TrackerLib.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\refint\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\TrackerLib\obj\Release\net8.0\ref\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\bin\Release\net8.0\TrackerLib.deps.json
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\bin\Release\net8.0\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\bin\Release\net8.0\TrackerLib.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\refint\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\TrackerLib\obj\Release\net8.0\ref\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\TrackerLib\obj\Release\net8.0\refint\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\TrackerLib\obj\Release\net8.0\TrackerLib.pdb
