@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FE46ZQbL+L3P1DZ7n2FIxgVOjG3Fa7ySa46ZP8RLgl7rLSq969wrL4YwiuTsT0xjNwslczCzT34OV46alKAyOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jakub\\Desktop\\Projekty\\Studia\\NAUKA\\TrackerLib\\TrackerLib\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jakub\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\Jakub\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jakub\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jakub\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

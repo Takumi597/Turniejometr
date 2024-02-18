@@ -1,0 +1,89 @@
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.StronaGlowna.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieDruzyny.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieNagrod.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieTurnieju.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.Widok.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\bin\Debug\net8.0-windows\TrackerLib.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.CopyComplete
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Tournament Tracker\TrackerLib\UI\obj\Debug\net8.0-windows\UI.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\bin\Debug\net8.0-windows\TrackerLib.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.StronaGlowna.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieDruzyny.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieNagrod.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieTurnieju.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.Widok.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.CopyComplete
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\Turniejometr\TrackerLib\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\TrackerLib.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\TrackerLib.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.StronaGlowna.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieDruzyny.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieNagrod.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.TworzenieTurnieju.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.Widok.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.csproj.CopyComplete
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\NAUKA\TrackerLib\TrackerLib\UI\bin\Debug\net8.0-windows\UI.dll.config
